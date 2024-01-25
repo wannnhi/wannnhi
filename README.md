@@ -3,7 +3,7 @@
 | 안녕하세요.
 
 | 저는 윤완희입니다.
-![image](https://github.com/wannnhi/wannnhi/assets/157658267/7d0c4b34-0f73-485d-a8f1-8ecb3d625760){: width="50" height="50"}
+![image](https://github.com/wannnhi/wannnhi/assets/157658267/7d0c4b34-0f73-485d-a8f1-8ecb3d625760{: width="100" height="100"})
 | 저는 아직 공부하고 있는 개발자 꿈나무입니다.
 
 [![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannnhi)](https://github.com/anuraghazra/github-readme-stats)
