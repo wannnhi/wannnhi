@@ -35,3 +35,7 @@
 
 
 | 안녕히 가세요!
+
+discord : oouul
+mail : nanhi@kakao.com
+insta : wanhxiii
